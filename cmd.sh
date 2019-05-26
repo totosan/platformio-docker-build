@@ -112,7 +112,7 @@ RESULT=$?
 
 # Report build status using logfile
 if [[ $RESULT == 0 ]]; then
-  echo "THiNX BUILD SUCCESSFUL."
+  echo "BUILD SUCCESSFUL."
 else
-  echo "THiNX BUILD FAILED: $?"
+  echo "BUILD FAILED: $?"
 fi
