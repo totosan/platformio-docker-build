@@ -70,4 +70,5 @@ This is a forked docker build from [GitHub: Matěj Sychra @ THiNX](https://gith
 Thanks to [Marcel Stoer](http://pfalcon-oe.blogspot.com/) who inspired me with his NodeMCU firmware builder on [http://frightanic.com](http://frightanic.com)
 
 ## Author
-[Thomas Tomow](www.tomow.de) on the base of [Matěj Sychra @ THiNX](http://thinx.cloud)
+[Thomas Tomow](www.tomow.de)  
+[GitHub Repo](https://github.com/totosan/platformio-docker-build) on the base of [Matěj Sychra @ THiNX](http://thinx.cloud)

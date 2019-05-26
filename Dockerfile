@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER suculent@me.com
+MAINTAINER totosan@me.com
 
 RUN mkdir /opt/workspace
 WORKDIR /opt/workspace
